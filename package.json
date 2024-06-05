@@ -1,6 +1,6 @@
 {
   "name": "m6a11-simplecalculator1",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "description": "A simple calculator with TypeScript, Node.js and Inquirer",
   "main": "index.js",
   "type": "module",
